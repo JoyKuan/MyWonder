@@ -6,3 +6,6 @@ The new platform, MyWonder, can perform big data analytics and visualizations fr
 
 ## License
 Apache License 2.0
+
+## Documentation
+MyWonder documentation link: https://ds-560.github.io/MyWonder/
