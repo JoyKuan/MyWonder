@@ -4,14 +4,14 @@ The new platform, MyWonder, can perform big data analytics and visualizations fr
 
 
 # Identified wastes
-### Waiting 
+## Waiting 
 1. For client and CEO, they wait for responses about explanation of terminology and contents from other departments.
 2. Waiting for a person to update contents used in the user interface before a demo. 
 
-### Over processing
+## Over processing
 Multiple responding levels for a question about explanation of terminology and contents used in the user interface.
 
-### Skills
+## Skills
 Every team member needs to create a few visualiztion, but every team member is not necessarily good at creating visualization. 
 
 
