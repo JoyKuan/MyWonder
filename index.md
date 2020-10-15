@@ -22,5 +22,5 @@ The new platform, MyWonder, can perform big data analytics and visualizations fr
 # Milestone
 Give MyWonder demos.
 
-# Gantt diagram.
+# Gantt chart.
 ![image](https://joykuan.github.io/MyWonder/Gantt%20chart.png)
