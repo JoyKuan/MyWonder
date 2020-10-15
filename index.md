@@ -20,7 +20,7 @@ Every team member needs to create a few visualiztion, but every team member is n
 4. A documentation with all the things which related to the project
 
 # Main Milestone
-Complete all requirements, improving UI tasks and different testing and production environments, for upcoming MyWonder demos.
+Successful completion of MyWonder demos.
 
 # Gantt diagram.
 ![image](https://joykuan.github.io/MyWonder/Gantt%20chart.png)
