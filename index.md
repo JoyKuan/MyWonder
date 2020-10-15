@@ -8,7 +8,7 @@ The new platform, MyWonder, can perform big data analytics and visualizations fr
 2. Waiting for a person to update contents used in the user interface before a demo. 
 
 ### Over processing
-Multiple responding levels for a question about explanation of terminology and contents used in the user interface.
+Multiple responding levels for a question about explanation of terminology and contents of the user interface.
 
 ### Skills
 Every team member needs to create a few visualiztion, but every team member is not necessarily good at creating visualization. 
