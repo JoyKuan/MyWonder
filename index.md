@@ -23,3 +23,4 @@ Every team member needs to create a few visualiztion, but every team member is n
 
 
 # Gantt diagram.
+![image](https://joykuan.github.io/MyWonder/Gantt%20chart.png)
